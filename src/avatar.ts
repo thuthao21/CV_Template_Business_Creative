@@ -22,7 +22,7 @@ export const DEFAULT_AVATAR_SRC = "/avatar/avatar.jpg";
 export const avatar: AvatarConfig = {
   enabled: true,
   src: DEFAULT_AVATAR_SRC,
-  alt: "Võ Hoàng Hải Nghĩa — Content Creator & Graphic Designer",
+  alt: "Nguyễn Thị Thu Thảo — Graphic Designer",
   aspect: "portrait",
   objectFit: "cover",
   objectPosition: "center top",
