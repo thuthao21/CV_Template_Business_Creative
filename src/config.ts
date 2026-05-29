@@ -38,7 +38,7 @@ export const config = {
     /** Mục 02 — Học vấn */
     education: true,
     /** Mục 03 — Kinh nghiệm làm việc — cần có `experience[]` */
-    experience: true,
+    experience: false,
     /** Mục 04 — Hoạt động & cộng đồng — cần có `activities[]` */
     activities: true,
     /** Mục 05 — Dự án & case study — cần có `projects[]` */

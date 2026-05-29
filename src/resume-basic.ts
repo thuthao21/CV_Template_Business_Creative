@@ -11,10 +11,10 @@ import type { CVData } from "@/resume-types";
 
 export const basic: CVData = {
   header: {
-    fullName: "VÕ HOÀNG HẢI NGHĨA",
-    position: "Nhà sáng tạo nội dung / Thiết kế hình ảnh",
+    fullName: "Nguyễn Thị Thu Thảo",
+    position: " Thiết kế hình ảnh",
     tagline:
-      "(Nghĩa Zakshin) · Sinh 06/09/1996 — Content Creator & Graphic Designer, tư duy sáng tạo hiện đại, thiết kế visual đa nền tảng và xây dựng thương hiệu cá nhân.",
+      "(Thu Thảo) · Sinh 12/04/2009 — Graphic Designer, tư duy sáng tạo hiện đại, thiết kế visual đa nền tảng và xây dựng thương hiệu cá nhân.",
     highlights: [
       "Graphic Design",
       "Content Creator",
@@ -22,12 +22,12 @@ export const basic: CVData = {
       "Visual Storytelling",
       "Ubuntu Server",
     ],
-    phone: "0968 884 946",
-    email: "nghiasoothsayer@gmail.com",
+    phone: "0813 049 748",
+    email: "nguyenthithuthaotqtudla@gmail.com",
     address: "Tây Ninh, Việt Nam",
-    portfolio: "https://github.com/ZakShinn",
-    facebook: "https://www.facebook.com/profile.php?id=100006985387032",
-    zalo: "https://zalo.me/0968884946",
+    portfolio: "https://github.com/thuthao",
+    facebook: "https://www.facebook.com/share/18fAtw6DtP/",
+    zalo: "https://zalo.me/0813049748",
   },
 
   creativeSkills: {
@@ -65,13 +65,13 @@ export const basic: CVData = {
   languages: [{ name: "Tiếng Việt", level: "Bản ngữ" }],
 
   careerObjective:
-    "Nhà sáng tạo nội dung số (Content Creator) & Graphic Designer với tư duy sáng tạo hiện đại, tập trung thiết kế hình ảnh truyền thông, xây dựng thương hiệu cá nhân và phát triển nội dung đa nền tảng. Có kinh nghiệm thiết kế visual cho Facebook, TikTok, Instagram; xây dựng nội dung thẩm mỹ cao, tối ưu tương tác và bắt trend. Thành thạo công cụ thiết kế/chỉnh sửa hình ảnh–video, phát triển ý tưởng từ concept đến sản phẩm hoàn chỉnh. Phong cách linh hoạt, chú trọng thẩm mỹ, hướng tới sản phẩm truyền thông nổi bật và chuyên nghiệp.",
+    " Graphic Designer với tư duy sáng tạo hiện đại, tập trung thiết kế hình ảnh truyền thông, xây dựng thương hiệu cá nhân và phát triển nội dung đa nền tảng. Có kinh nghiệm thiết kế visual cho Facebook, TikTok, Instagram; xây dựng nội dung thẩm mỹ cao, tối ưu tương tác và bắt trend. Thành thạo công cụ thiết kế/chỉnh sửa hình ảnh–video, phát triển ý tưởng từ concept đến sản phẩm hoàn chỉnh. Phong cách linh hoạt, chú trọng thẩm mỹ, hướng tới sản phẩm truyền thông nổi bật và chuyên nghiệp.",
 
   education: [
     {
-      school: "Đại học Cần Thơ",
+      school: "Trường Trung Cấp Công Nghệ Thông Tin ",
       major: "Công nghệ thông tin",
-      period: "2022 – 2024",
+      period: "2024 – 2026",
       detail:
         "Hoàn thiện và nâng cao tư duy hệ thống, thuật toán và các công nghệ phần mềm chuyên sâu.",
     },
@@ -90,22 +90,22 @@ export const basic: CVData = {
         "Tích cực tham gia các hoạt động ngoại khóa, xây dựng nền tảng kỹ năng mềm phong phú và tích lũy kiến thức y khoa thực tiễn phục vụ cho công việc tại hệ thống Y tế sau này.",
     },
     {
-      school: "Trường THPT Nguyễn Thông",
-      period: "2011 – 2014",
+      school: "Trường Trung Cấp Công Nghệ Và Du Lịch",
+      period: "2024 – 2026",
       detail:
-        "Học sinh khối THPT, trải qua những bài học lớn từ cuộc sống để trưởng thành và định hình trách nhiệm cá nhân.",
+        "Phát triển bản thân và định hướng mục tiêu tương lai.",
     },
     {
-      school: "Trường THCS Vĩnh Công",
-      period: "2007 – 2011",
+      school: "Trường THCS Trần Phú",
+      period: "2020 – 2024",
       detail:
-        "Hoàn thành chương trình Trung học cơ sở, rèn luyện tính tự lập trước các biến cố gia đình.",
+        "Rèn luyện kỹ năng , tự tin tham gia các hoạt động tập thể.",
     },
     {
-      school: "Trường TH Vĩnh Công",
-      period: "2002 – 2007",
+      school: "Trường TH An Vĩnh Ngãi",
+      period: "2015 – 2020",
       detail:
-        "Tập trung học tập và bắt đầu hình thành niềm đam mê tự nghiên cứu, tìm tòi những điều yêu thích xung quanh.",
+        "Năng động học tập và khám phá sở thích bản thân.",
     },
   ],
 
@@ -154,12 +154,12 @@ export const basic: CVData = {
     {
       title: "Sở thích",
       description:
-        "Thiết kế hình ảnh theo xu hướng hiện đại; chỉnh màu ảnh & edit video ngắn; xây dựng concept thương hiệu cá nhân; theo dõi trend thiết kế & MXH; visual tối giản, cinematic, modern; chụp ảnh & nghe nhạc tìm cảm hứng sáng tạo.",
+        "Tìm hiểu AI và công nghệ mới ; sáng tạo bằng công nghệ ; học các mẹo công nghệ hữu ích ; xem review đồ công nghệ.",
     },
     {
       title: "Điểm mạnh cá nhân",
       description:
-        "Tư duy thẩm mỹ tốt; học hỏi nhanh, thích nghi linh hoạt; chủ động và có trách nhiệm với deadline; làm việc độc lập và teamwork hiệu quả.",
+        "Biết sáng tạo nội dung số ; khả năng tự học tốt ;thích nghi nhanh với môi trường số ;linh hoạt khi dùng ứng dụng mới.",
     },
     {
       title: "Hoạt động — Cao đẳng LADEC",
@@ -170,7 +170,7 @@ export const basic: CVData = {
     {
       title: "Định hướng phát triển",
       description:
-        "Graphic Design · Content Creator · Social Media Branding · Visual Storytelling · Digital Media · Creative Design · Social Content Production.",
+        "Become a creative and adaptable person in the digital era.",
     },
   ],
 };
