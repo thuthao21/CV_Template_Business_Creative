@@ -25,7 +25,7 @@ export const basic: CVData = {
     phone: "0813 049 748",
     email: "nguyenthithuthaotqtudla@gmail.com",
     address: "Tây Ninh, Việt Nam",
-    portfolio: "https://github.com/thuthao",
+    portfolio: "https://github.com/thuthao21",
     facebook: "https://www.facebook.com/share/18fAtw6DtP/",
     zalo: "https://zalo.me/0813049748",
   },

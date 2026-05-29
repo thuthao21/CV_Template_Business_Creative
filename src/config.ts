@@ -42,7 +42,7 @@ export const config = {
     /** Mục 04 — Hoạt động & cộng đồng — cần có `activities[]` */
     activities: true,
     /** Mục 05 — Dự án & case study — cần có `projects[]` */
-    projects: true,
+    projects: false,
     /** Sidebar: Năng lực sáng tạo (4 nhóm kỹ năng) */
     creativeSkills: true,
     /** Sidebar: Ngôn ngữ */
