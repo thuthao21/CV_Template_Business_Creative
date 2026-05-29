@@ -68,27 +68,7 @@ export const basic: CVData = {
     " Graphic Designer với tư duy sáng tạo hiện đại, tập trung thiết kế hình ảnh truyền thông, xây dựng thương hiệu cá nhân và phát triển nội dung đa nền tảng. Có kinh nghiệm thiết kế visual cho Facebook, TikTok, Instagram; xây dựng nội dung thẩm mỹ cao, tối ưu tương tác và bắt trend. Thành thạo công cụ thiết kế/chỉnh sửa hình ảnh–video, phát triển ý tưởng từ concept đến sản phẩm hoàn chỉnh. Phong cách linh hoạt, chú trọng thẩm mỹ, hướng tới sản phẩm truyền thông nổi bật và chuyên nghiệp.",
 
   education: [
-    {
-      school: "Trường Trung Cấp Công Nghệ Thông Tin ",
-      major: "Công nghệ thông tin",
-      period: "2024 – 2026",
-      detail:
-        "Hoàn thiện và nâng cao tư duy hệ thống, thuật toán và các công nghệ phần mềm chuyên sâu.",
-    },
-    {
-      school: "Trường Cao Đẳng Công Nghệ Ladec",
-      major: "Công nghệ thông tin",
-      period: "2016 – 2019",
-      detail:
-        "Giữ vai trò Quản lý nhóm thanh niên tham gia các hoạt động phong trào, tình nguyện do trường và tỉnh tổ chức; rèn luyện kỹ năng lãnh đạo (Leadership) và làm việc nhóm.",
-    },
-    {
-      school: "Trường Cao đẳng Bách Khoa Nam Sài Gòn",
-      major: "Y Sỹ Đa Khoa",
-      period: "2014 – 2016",
-      detail:
-        "Tích cực tham gia các hoạt động ngoại khóa, xây dựng nền tảng kỹ năng mềm phong phú và tích lũy kiến thức y khoa thực tiễn phục vụ cho công việc tại hệ thống Y tế sau này.",
-    },
+
     {
       school: "Trường Trung Cấp Công Nghệ Và Du Lịch",
       period: "2024 – 2026",
